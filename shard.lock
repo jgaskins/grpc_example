@@ -1,0 +1,10 @@
+version: 1.0
+shards:
+  grpc:
+    github: jgaskins/grpc
+    commit: 9af15fb2ccd6b232c968795c507f76e58e2d048b
+
+  protobuf:
+    github: jeromegn/protobuf.cr
+    commit: d7f31df6c72218ed8c038f1337c7ef105249c38e
+

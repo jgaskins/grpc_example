@@ -1,0 +1,17 @@
+name: grpc_example
+version: 0.1.0
+
+authors:
+  - Jamie Gaskins <jgaskins@gmail.com>
+
+targets:
+  grpc_example:
+    main: src/grpc_example.cr
+
+dependencies:
+  grpc:
+    github: jgaskins/grpc
+
+crystal: 0.32.1
+
+license: MIT
