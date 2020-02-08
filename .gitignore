@@ -3,4 +3,4 @@
 /bin/
 /.shards/
 *.dwarf
-/src/protobufs
+/src/protobufs/*.cr
